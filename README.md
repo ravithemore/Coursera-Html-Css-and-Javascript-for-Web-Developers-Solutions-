@@ -10,7 +10,7 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 2
 * [Assignment description](./Descriptions/assignment2/Assignment-2.md)
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution](https://ravithemore.github.io/HTML-CSS-AND-JAVASCRIPT-FOR-WEB-DEVELOPERS-COURSE-ON-COURSERA-SOLUTIONS-/Module-2/)
 
 ### Module 3
 * [Assignment description](./Descriptions/assignment3/Assignment-3.md)

@@ -6,7 +6,7 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 1
-* [Assignment description](./Descriptions/assignment2/Assignment-1.md)
+* [Assignment description](./Descriptions/assignment1/Assignment-1.md)
 
 ### Module 2
 * [Assignment description](./Descriptions/assignment2/Assignment-2.md)

@@ -3,6 +3,9 @@
 This repository contains my solutions to the assignments of the Coursera course
 ["HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
 
+
+<img align ="right" alt = "coding" width  = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 ## Assignments
 
 ### Module 1

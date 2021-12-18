@@ -6,9 +6,9 @@ This repository contains my solutions to the assignments of the Coursera course
 
 <img align ="right" alt = "coding" width  = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-## Assignments
+## Assignments 🧑‍💻
 
-### Module 1
+### Module 1 
 * [Assignment description](./Descriptions/assignment1/Assignment-1.md)
 
 ### Module 2
